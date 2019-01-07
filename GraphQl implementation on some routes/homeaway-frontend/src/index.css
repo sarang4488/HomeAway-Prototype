@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+#big {
+  background-image: url(home_img.jpg);
+  background-size: cover;
+}
+
+.listprop {
+  background-image: url(earn-header.jpg);
+  background-size: cover;
+}

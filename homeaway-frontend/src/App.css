@@ -1,0 +1,310 @@
+.login-top {
+  margin-top: 70px;
+}
+
+.main-div {
+  background: #ffffff none repeat scroll 0 0;
+  border-radius: 2px;
+  margin: 50px auto 180px;
+  max-width: 30%;
+  height: 380px;
+  padding: 20px 30px 40px 30px;
+  border: 1px solid #d4d4d4;
+}
+.form-control {
+  background: #f7f7f7 none repeat scroll 0 0;
+  border: 1px solid #d4d4d4;
+  border-radius: 4px;
+  font-size: 14px;
+  height: 50px;
+  line-height: 50px;
+  margin-top: 10px;
+}
+
+.navbar-right .dropdown .dropdown-toggle {
+  margin-top: 18px;
+  color: white;
+  font-size: 16px;
+}
+
+.navbar-right .dropdown .searchlogin {
+  margin-top: 18px;
+  color: #0067db;
+  font-size: 16px;
+}
+.navbar-right .dropdown .dropdown-toggle:hover {
+  background-color: transparent;
+}
+
+.navbar-right .dropdown .dropdown-toggle:focus {
+  background-color: transparent;
+}
+
+.navbar-right .dropdown .dropdown-menu {
+  border-radius: 12px;
+  width: 150px;
+  height: 200px;
+}
+
+.navbar-right .dropdown .dropdown-menu .navbar-btn {
+  color: #0067db;
+  background-color: white;
+  width: 150px;
+  padding: 10px 20px;
+  text-align: left;
+  margin-left: 3px;
+}
+
+.navbar-right .dropdown .dropdown-menu .navbar-btn:hover {
+  color: white;
+}
+
+.navbar-right .logo-image:hover {
+  background-color: transparent;
+}
+.navbar-right .navbar-btn1 {
+  border-radius: 25px;
+  margin-top: 18px;
+  width: 190px;
+  height: 50px;
+  color: #0067db;
+  border-color: #0067db;
+}
+
+.home .quotes .heading {
+  color: rgb(255, 255, 255);
+  margin-top: 200px;
+  margin-left: 220px;
+  text-align: left;
+  font-size: 40px;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: 0.1px;
+}
+
+.form-inline {
+  margin-left: 215px;
+  text-align: left;
+  margin-bottom: 250px;
+}
+.navsearch {
+  margin-left: 0px;
+  text-align: left;
+  margin-bottom: 20px;
+}
+.form-inline .form-group {
+  margin-right: 5px;
+  outline-color: rgb(50, 63, 77);
+  padding: 3px;
+}
+
+.form-inline .form-group {
+  margin-right: 5px;
+  outline-color: rgb(50, 63, 77);
+  padding: 3px;
+}
+.form-inline .form-group:focus {
+  outline: 30px solid #0067db;
+}
+
+.form-inline .form-group #location {
+  width: 370px;
+  color: rgb(50, 63, 77);
+  cursor: text;
+
+  padding: 15px 15px 15px 15px;
+  text-align: start;
+}
+
+.form-inline .btn {
+  border-radius: 40px;
+  background-color: rgb(0, 103, 219);
+  color: white;
+  width: 150px;
+  height: 55px;
+  font-weight: 500;
+}
+
+.homerow {
+  text-align: center;
+}
+.listdiv .list {
+  width: 100%;
+  color: white;
+}
+
+.listdiv .list .listitem {
+  display: inline;
+}
+.row {
+  margin-bottom: 20px;
+}
+
+.row .sitem {
+  color: white;
+  font-size: 1.5em;
+}
+
+.row .listspan {
+  color: white;
+  text-align: center;
+  width: 33.33%;
+}
+
+.navbar-right .homecontact {
+  color: #fff;
+  margin-top: 30px;
+  margin-right: 50px;
+  font-size: 16px;
+  font-family: Lato, Roboto, Arial, Helvetica Neue, Helvetica, sans-serif;
+  line-height: 24px;
+}
+
+.navbar-right .homecontact .link {
+  color: #fff;
+  font-size: 16px;
+  font-family: Lato, Roboto, Arial, Helvetica Neue, Helvetica, sans-serif;
+  text-decoration: underline;
+  text-align: center;
+}
+
+.listprop {
+  background-image: url(earn-header.jpg);
+  background-size: cover;
+  height: 500px;
+}
+
+.listprop .earn {
+  color: white;
+  font-size: 55px;
+  font-weight: 500;
+  margin-top: 120px;
+  text-align: left;
+  margin-left: 150px;
+  margin-bottom: 100px;
+}
+
+.listprop .earn .span2 {
+  text-align: left;
+}
+
+.property {
+  height: 400px;
+  width: 500px;
+  border: 1px solid grey;
+  margin-left: 100px;
+}
+
+#bt {
+  color: white;
+  border-radius: 15px;
+  width: 80px;
+}
+
+.property .basics {
+  margin-top: 20px;
+  font-size: 24px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+#vacation {
+  font-size: 40px;
+  font-weight: 300;
+  margin-top: 80px;
+  margin-bottom: 60px;
+}
+
+.footer {
+  background-color: #323f4d;
+  color: white;
+}
+
+.links {
+  text-align: center;
+  background-color: #9da9b3;
+  color: #323f4d;
+  height: 60px;
+  font-size: 16px;
+  line-height: 30px;
+  padding: 15px;
+  border-radius: 8px;
+  margin: 15px;
+}
+
+#profilebutton {
+  border-radius: 40px;
+  background-color: rgb(0, 103, 219);
+  color: white;
+  width: 150px;
+  height: 55px;
+  font-weight: 500;
+  margin-bottom: 5px;
+}
+
+#profileb {
+  border-radius: 50px;
+  background-color: rgb(0, 103, 219);
+  color: white;
+  margin-bottom: 5px;
+}
+
+#pagination-container {
+  display: flex;
+  justify-content: center;
+}
+
+#pagination {
+  display: flex;
+  color: #505050;
+}
+
+#pagination-list {
+  display: flex;
+  list-style: none;
+  margin: 0 0 0 10px;
+  padding: 0;
+}
+
+.pagination-button {
+  display: flex;
+  height: 50px;
+  width: 50px;
+  border: 1px solid #777;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.pagination-list-item {
+  margin-right: 10px;
+}
+
+.pagination-list-item.active {
+  background: #505050;
+  color: white;
+}
+
+.pagination-go-first {
+  margin-right: 40px;
+  position: relative;
+  margin-left: 10px;
+}
+
+.pagination-go-first:before {
+  position: absolute;
+  content: "...";
+  right: -33px;
+}
+
+.pagination-go-last {
+  margin-left: 40px;
+  position: relative;
+  margin-right: 10px;
+}
+
+.pagination-go-last:before {
+  position: absolute;
+  content: "...";
+  left: -33px;
+}
