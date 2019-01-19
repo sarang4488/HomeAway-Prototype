@@ -22,19 +22,19 @@ Steps to run the application:
 
 Back-end server
 
-cd Homeaway-Backend
-npm install
-nodemon index.js
+• cd Homeaway-Backend
+• npm install
+• nodemon index.js
 
 Front-end server
 
-cd homeaway-frontend
-npm install
-npm start
+• cd homeaway-frontend
+• npm install
+• npm start
 
 Kafka
 
-Run zookeeper kafka and create topics 
-cd homeaway-kafka
-npm install
-nodemon server.js
+• Run zookeeper kafka and create topics 
+• cd homeaway-kafka
+• npm install
+• nodemon server.js
